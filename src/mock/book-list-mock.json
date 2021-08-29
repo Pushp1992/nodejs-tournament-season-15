@@ -1,0 +1,94 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "bookList": {
+            "category": [
+                {
+                    "academic": {
+                        "seniorSecondary": [
+                            {
+                                "id": 1,
+                                "subject": "English",
+                                "price": "200",
+                                "availableForRent": "true",
+                                "availableForPurchase": "false"
+                            },
+                            {
+                                "id": 2,
+                                "subject": "Maths",
+                                "price": "200",
+                                "availableForRent": "false",
+                                "availableForPurchase": "true"
+                            },
+                            {
+                                "id": 3,
+                                "subject": "Science",
+                                "price": "200",
+                                "availableForRent": "true",
+                                "availableForPurchase": "true"
+                            }
+                        ],
+                        "higherSecondary": [
+                            {
+                                "id": 1,
+                                "subject": "English",
+                                "price": "200",
+                                "availableForRent": "true",
+                                "availableForPurchase": "false"
+                            },
+                            {
+                                "id": 2,
+                                "subject": "Maths",
+                                "price": "200",
+                                "availableForRent": "false",
+                                "availableForPurchase": "true"
+                            },
+                            {
+                                "id": 3,
+                                "subject": "Science",
+                                "price": "200",
+                                "availableForRent": "true",
+                                "availableForPurchase": "true"
+                            }
+                        ]
+                    },
+                    "competative": [
+                        {
+                            "id": 1,
+                            "subject": "railway enterance",
+                            "price": "200",
+                            "availableForRent": "true",
+                            "availableForPurchase": "false"
+                        },
+                        {
+                            "id": 2,
+                            "subject": "general knowledge",
+                            "price": "200",
+                            "availableForRent": "true",
+                            "availableForPurchase": "false"
+                        }
+                    ],
+                    "technical": [
+                        {
+                            "id": 1,
+                            "subject": "Computer Science",
+                            "price": "200",
+                            "availableForRent": "true",
+                            "availableForPurchase": "false"
+                        }
+                    ],
+                    "political": [
+                        {
+                            "id": 1,
+                            "subject": "Indian polity",
+                            "price": "200",
+                            "availableForRent": "true",
+                            "availableForPurchase": "false"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
